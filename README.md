@@ -15,8 +15,7 @@ The images are then measured for a cosine distance with the face of people prese
 * Face verification  
 
 ➢ Dataset preparation and loading:
-
-          This module is used to prepare the dataset such as scaling, applying filter    and adding the annotations as the prediction to the data loader.  
+This module is used to prepare the dataset such as scaling, applying filter    and adding the annotations as the prediction to the data loader.  
 ➢ Model Definition:
           This module initializes the model class and the parameters required for the model.  
 ➢ Model Training:
