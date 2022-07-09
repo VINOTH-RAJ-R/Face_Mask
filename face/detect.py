@@ -70,5 +70,4 @@ def detectuh(a="C:/Users/srisharaan/Desktop/face mask/two.jpeg"):
     cv2.imwrite(f"outputs/save_name.jpg", image)
     cv2.waitKey(0)
 
-
 #detectuh()
