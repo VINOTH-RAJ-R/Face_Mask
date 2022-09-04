@@ -30,3 +30,6 @@ In today’s world it is inevitable to go out without a mask. This application h
 The discovery of deep learning algorithms has led to a big leap in the development of difficult problems such as detection, segmentation etc.
 We used a pretrained resnet50 to train the dataset which helped us to get significant accuracy.
 The significance of the model is it has residual connections that helps to solve the vanishing gradient problem to an extent which has a major impact on accuracy of the test set.  
+
+# License
+Apache-2.0 license
